@@ -1,2 +1,0 @@
-# Sample-Project
-practicedata sets
